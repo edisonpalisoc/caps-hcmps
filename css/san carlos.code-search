@@ -1,0 +1,9 @@
+# Query: San Carlos Health Care Management System 2023 Patient Record Healthcare San Carlos Healthcare Management System 2023 System - Victorias City
+# ContextLines: 1
+
+1 result - 1 file
+
+admin\dental_record.php:
+  43  	<div class = "navbar navbar-default navbar-fixed-top">
+  44: 		<img src = "../images/logo.png" style = "float:left;" height = "55px" /><label class = "navbar-brand">San Carlos Health Care Management System 2023 Patient Record Healthcare San Carlos Healthcare Management System 2023 System - Victorias City</label>
+  45  			<?php
